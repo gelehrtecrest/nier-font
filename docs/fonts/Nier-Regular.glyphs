@@ -4,7 +4,7 @@ copyright = MIT;
 date = "2019-12-19 12:54:44 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://gelehrte.com";
-familyName = "Nier-Regular";
+familyName = Nier;
 fontMaster = (
 {
 ascender = 800;
