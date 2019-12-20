@@ -1,13 +1,10 @@
 {
 .appVersion = "1271";
-DisplayStrings = (
-o
-);
 copyright = MIT;
-date = "2019-12-19 12:54:44 +0000";
+date = "2019-12-20 16:56:56 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://gelehrte.com";
-familyName = Nier;
+familyName = NieR;
 fontMaster = (
 {
 ascender = 800;
@@ -4582,5 +4579,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 1;
+versionMinor = 2;
 }
