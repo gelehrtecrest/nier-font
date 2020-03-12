@@ -1,4 +1,4 @@
-Norvrandt font
+Nier font
 ====
 
 Nier font for FF14.
