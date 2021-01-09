@@ -1,7 +1,7 @@
 {
-.appVersion = "1271";
+.appVersion = "3039";
 copyright = MIT;
-date = "2019-12-27 10:15:14 +0000";
+date = "2021-01-09 05:20:43 +0000";
 designer = "Gelehrte Crest";
 designerURL = "http://gelehrte.com";
 familyName = NieR;
@@ -7791,10 +7791,11 @@ unicode = 002D;
 },
 {
 glyphname = space;
+lastChange = "2021-01-09 05:20:23 +0000";
 layers = (
 {
 layerId = "B1BCE86B-A7FB-414A-B0E3-B1B1CA0865E7";
-width = 600;
+width = 200;
 }
 );
 unicode = 0020;
@@ -7812,5 +7813,5 @@ manufacturer = "Gelehrte Crest";
 manufacturerURL = "http://gelehrte.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
